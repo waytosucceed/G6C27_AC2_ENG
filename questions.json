@@ -1,0 +1,263 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which tense is used to describe actions that started in the past and are still relevant now?",
+        "options": [
+            "Present perfect",
+            "Past perfect",
+            "Future perfect",
+            "Simple present"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Fill in the blank: She _______ (finish) her homework already.",
+        "options": [
+            "has finished",
+            "had finished",
+            "will have finished",
+            "finishes"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Past perfect tense is formed using 'will have' + past participle. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Which sentence uses future perfect tense correctly?",
+        "options": [
+            "I will finish my chores by dinner time.",
+            "I will have finished my chores by dinner time.",
+            "I have finished my chores by dinner time.",
+            "I had finished my chores by dinner time."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Fill in the blank: By the time I got home, my dog _______ (eat) all the food.",
+        "options": [
+            "has eaten",
+            "had eaten",
+            "will have eaten",
+            "eats"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Which tense is used to describe actions that will be completed by a certain time later?",
+        "options": [
+            "Present perfect",
+            "Past perfect",
+            "Future perfect",
+            "Simple future"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "Present perfect tense always uses 'have' for all subjects. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "Fill in the blank: By next year, I _______ (learn) how to ride a bike.",
+        "options": [
+            "have learned",
+            "had learned",
+            "will have learned",
+            "learn"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "Which sentence uses present perfect tense correctly?",
+        "options": [
+            "I have went to the park yesterday.",
+            "She has gone to the park three times this week.",
+            "They have go to the park every day.",
+            "We has been to the park last month."
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "Fill in the blank: Before the teacher arrived, the students _______ (complete) their assignments.",
+        "options": [
+            "have completed",
+            "had completed",
+            "will have completed",
+            "completes"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "Future perfect tense uses 'had' + past participle. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Which tense is used to describe actions that were completed before another action back in the day?",
+        "options": [
+            "Present perfect",
+            "Past perfect",
+            "Future perfect",
+            "Simple past"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "Fill in the blank: They _______ (visit) five countries so far.",
+        "options": [
+            "have visited",
+            "had visited",
+            "will have visited",
+            "visits"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "Present perfect tense can be used to talk about experiences. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which sentence uses past perfect tense correctly?",
+        "options": [
+            "I had eaten lunch before I went to the meeting.",
+            "She has eaten lunch before she went to the meeting.",
+            "They will have eaten lunch before they go to the meeting.",
+            "We have had eaten lunch before we went to the meeting."
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "Fill in the blank: By the time you wake up tomorrow, I _______ (leave) for work.",
+        "options": [
+            "have left",
+            "had left",
+            "will have left",
+            "leaves"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "Past perfect tense can also be used to describe future actions. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "Which tense is used to describe actions that started in the past and continue to the present?",
+        "options": [
+            "Present perfect",
+            "Past perfect",
+            "Future perfect",
+            "Simple present"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "Fill in the blank: She _______ (never/see) a real elephant before her trip to the zoo.",
+        "options": [
+            "has never seen",
+            "had never seen",
+            "will have never seen",
+            "never sees"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "Future perfect tense always uses 'will have' for all subjects. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q21.",
+        "question": "Which sentence uses present perfect tense correctly?",
+        "options": [
+            "I have ate lunch already.",
+            "She have seen that movie before.",
+            "They has gone to school.",
+            "We have lived here for five years."
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q22.",
+        "question": "Fill in the blank: By the end of this month, we _______ (save) enough money for our vacation.",
+        "options": [
+            "have saved",
+            "had saved",
+            "will have saved",
+            "saves"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q23.",
+        "question": "Present perfect tense always refers to a specific time in the past. (True / False)",
+        "options": [
+            "True",
+            "False"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q24.",
+        "question": "Which tense is used to show which of two previous actions happened first?",
+        "options": [
+            "Present perfect",
+            "Past perfect",
+            "Future perfect",
+            "Simple past"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q25.",
+        "question": "Fill in the blank: The movie _______ (already/start) when we arrived at the theater.",
+        "options": [
+            "has already started",
+            "had already started",
+            "will have already started",
+            "already starts"
+        ],
+        "correct": 1
+    }
+]
